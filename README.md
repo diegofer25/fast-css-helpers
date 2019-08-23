@@ -19,4 +19,4 @@ or cdn
 
 ```html
 <link rel="stylesheet" href="https://raw.githack.com/diegofer25/fast-css-helpers/master/css/index.css" />
-```s
+```
