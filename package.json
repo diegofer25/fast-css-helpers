@@ -1,0 +1,19 @@
+{
+  "name": "sass-setup",
+  "version": "1.0.0",
+  "description": "Sass setup for web projects",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch scss/index.scss -o css --output-style compressed"
+  },
+  "keywords": [
+    "sass",
+    "setup",
+    "web"
+  ],
+  "author": "Diego Lamarão",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}

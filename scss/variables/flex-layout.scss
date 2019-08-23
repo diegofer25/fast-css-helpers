@@ -1,0 +1,15 @@
+$direction-list: (row, row-reverse, column, column-reverse);
+$wrap-list: (nowrap, wrap, wrap-reverse);
+$justify-content-list: (flex-start,
+  flex-end,
+  center,
+  space-between,
+  space-around,
+  space-evenly);
+$align-items-list: (stretch, flex-start, flex-end, center, baseline);
+$align-content-list: (flex-start,
+  flex-end,
+  center,
+  space-between,
+  space-around,
+  stretch);
