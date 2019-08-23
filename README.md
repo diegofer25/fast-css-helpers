@@ -8,9 +8,11 @@
 - Responsive text-aligns;
 - Text and backgrounds colors;
 
-### Usage
+### Install
 `npm i fast-sass-helpers`
 
+
+### Usage
 ```javascript
 @import "fast-css-helpers/css/index.css"
 ```
